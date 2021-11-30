@@ -1,2 +1,2 @@
-# AoC2020Excel
+# AoC2021Excel
 Advent of Code Excel Workings
